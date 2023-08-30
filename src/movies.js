@@ -15,3 +15,4 @@ export const moviesData = [
     imdb: "8.8"
   }
 ];
+
